@@ -1,4 +1,4 @@
-# Travel-Insurance-Prediction
+# Travel Insurance Prediction
 This project is a machine learning-based approach to predict travel insurance purchases by customers.
 
 ## Features
