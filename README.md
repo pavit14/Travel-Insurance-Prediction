@@ -8,7 +8,7 @@ The project is divided into two main parts:
 2. Machine learning model evaluation
 
 ## Features
-* Utilized Python to apply statistical inference techniques to establish correlations between variables, performed feature engineering to develop new variables, and utilized dimension reduction techniques such as PCA to reduce the dimensionality of the dataset.
+* Utilized Python to apply statistical inference techniques to establish correlations between variables, performed feature engineering to develop new variables.
 * Analyzed various classification models, performed hyperparameter tuning to enhance the accuracy of the target variable, and achieved an accuracy rate of 78% to demonstrate expertise in data modeling and analysis.
 
 ## Frameworks
